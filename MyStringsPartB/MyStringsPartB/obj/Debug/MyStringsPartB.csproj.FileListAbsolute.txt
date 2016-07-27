@@ -1,0 +1,15 @@
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\bin\Debug\MyStringsPartB.exe.config
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\bin\Debug\MyStringsPartB.exe
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\bin\Debug\MyStringsPartB.pdb
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\bin\Debug\ThinkLib.dll
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\obj\Debug\MyStringsPartB.csprojResolveAssemblyReference.cache
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\obj\Debug\MainWindow.g.cs
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\obj\Debug\App.g.cs
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\obj\Debug\MyStringsPartB_MarkupCompile.cache
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\obj\Debug\MyStringsPartB_MarkupCompile.lref
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\obj\Debug\MainWindow.baml
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\obj\Debug\MyStringsPartB.g.resources
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\obj\Debug\MyStringsPartB.Properties.Resources.resources
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\obj\Debug\MyStringsPartB.csproj.GenerateResource.Cache
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\obj\Debug\MyStringsPartB.exe
+J:\Programs\CSC 102\Practical 2\MyStringsPartB\MyStringsPartB\obj\Debug\MyStringsPartB.pdb
